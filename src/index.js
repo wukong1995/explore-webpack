@@ -1,2 +1,2 @@
-require('./file2')
+import './file2.js'
 console.log('index')
