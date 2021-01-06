@@ -1,2 +1,2 @@
 import './file2.js'
-console.log('index')
+// console.log('index')
